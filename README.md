@@ -11,13 +11,12 @@
 
 <br>
 
-https://zaiem-portfolio.netlify.app/
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
 	<a href="https://github.com/zaiem2001"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://zaiem-portfolio.netlify.app/">🌎</a>
-	<a href="https://www.linkedin.com/in/zaiem-munshi/"><img src="https://img.shields.io/website alt="Website"/></a>
+	
+	<a href="https://www.linkedin.com/in/zaiem-munshi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 
@@ -28,23 +27,18 @@ https://zaiem-portfolio.netlify.app/
 ### 👉 Programming languages
 
 <p align="center"> 
-  &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
   </a> 
-  &emsp;
     
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
-  &emsp;
     
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+      <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank"> 
      <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
    </a>
-  &emsp;
  
-  &emsp;
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
@@ -52,46 +46,41 @@ https://zaiem-portfolio.netlify.app/
 
 ### 👉 Frontend Development
 <p align="center"> 
-  &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
   </a>   
-  &emsp;
     
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a>
     
-    &emsp;
   <a href="https://www.w3schools.com/react/" target="_blank">
     <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   </a>
     
-    &emsp;
   <a href="https://www.w3schools.com/nodeJs/" target="_blank">
     <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   </a>
     
-    &emsp;
   <a href="https://www.w3schools.com/mongodb/" target="_blank">
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   </a>
-    &emsp;
-  <a href="https://www.w3schools.com/graphql/" target="_blank">
+
+	
+	<a href="https://www.w3schools.com/graphql/" target="_blank">
     <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
   </a>
-    &emsp;
-    
-  <a href="https://www.w3schools.com/redis/" target="_blank">
+
+	
+	<a href="https://www.w3schools.com/redis/" target="_blank">
     <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
   </a>
         
-    &emsp;
-  <a href="https://www.w3schools.com/relay/" target="_blank">
+
+	<a href="https://www.w3schools.com/relay/" target="_blank">
     React-Relay
   </a>
         
-    &emsp;
   <a href="https://www.w3schools.com/nextjs/" target="_blank">
     <img alt="NextJS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
   </a>
@@ -100,7 +89,7 @@ https://zaiem-portfolio.netlify.app/
     <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
   </a>
         
-    &emsp;
+
 </p>
 
  ### 👉 Software & Tools
