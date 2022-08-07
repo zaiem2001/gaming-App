@@ -69,18 +69,15 @@
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   </a>
 
-	
-	<a href="https://www.w3schools.com/graphql/" target="_blank">
+  <a href="https://www.w3schools.com/graphql/" target="_blank">
     <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
   </a>
 
-	
-	<a href="https://www.w3schools.com/redis/" target="_blank">
+  <a href="https://www.w3schools.com/redis/" target="_blank">
     <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
   </a>
         
-
-	<a href="https://www.w3schools.com/relay/" target="_blank">
+  <a href="https://www.w3schools.com/relay/" target="_blank">
     React-Relay
   </a>
         
@@ -88,7 +85,7 @@
     <img alt="NextJS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
   </a>
     
-     <a href="https://www.w3schools.com/redux/" target="_blank">
+  <a href="https://www.w3schools.com/redux/" target="_blank">
     <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
   </a>
         
