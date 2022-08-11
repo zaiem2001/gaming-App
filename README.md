@@ -13,7 +13,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 
-<p align="center">
+<p>
 	<a href="https://github.com/zaiem2001"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	
   <a href="https://zaiem-portfolio.netlify.app/">🌎</a>
